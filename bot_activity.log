@@ -1,0 +1,44 @@
+2026-10-19 06:05:08,981 - __main__ - INFO - Initializing DB structure...
+2026-10-19 06:05:08,981 - __main__ - INFO - Forcing emoji and UI text updates...
+2026-10-19 06:05:09,414 - __main__ - INFO - UI texts and emojis updated with new placeholders and IDs.
+2026-10-19 06:05:09,414 - __main__ - INFO - Fixed any non-numeric price columns.
+2026-10-19 06:05:09,414 - __main__ - INFO - Running category migration...
+2026-10-19 06:05:09,425 - __main__ - INFO - Category migration complete.
+2026-10-19 06:05:09,425 - __main__ - INFO - Global premium emoji engine active (9 emojis).
+2026-10-19 06:05:09,426 - __main__ - INFO - FamPay Auto-Verifier Daemon Running in Background.
+2026-10-19 06:05:09,426 - __main__ - INFO - 🚀 CORE SYSTEM IS FULLY OPERATIONAL...
+2026-10-19 06:05:09,426 - aiogram.dispatcher - INFO - Start polling
+2026-10-19 06:05:10,134 - aiogram.dispatcher - INFO - Run polling for bot @SELLLR_BOT id=8385348167 - 'H4CK SELLER BOT'
+2026-10-19 06:05:16,761 - __main__ - INFO - Initializing DB structure...
+2026-10-19 06:05:16,762 - __main__ - INFO - Forcing emoji and UI text updates...
+2026-10-19 06:05:17,201 - __main__ - INFO - UI texts and emojis updated with new placeholders and IDs.
+2026-10-19 06:05:17,202 - __main__ - INFO - Fixed any non-numeric price columns.
+2026-10-19 06:05:17,203 - __main__ - INFO - Global premium emoji engine active (9 emojis).
+2026-10-19 06:05:17,203 - __main__ - INFO - FamPay Auto-Verifier Daemon Running in Background.
+2026-10-19 06:05:17,203 - __main__ - INFO - 🚀 CORE SYSTEM IS FULLY OPERATIONAL...
+2026-10-19 06:05:17,203 - aiogram.dispatcher - INFO - Start polling
+2026-10-19 06:05:17,829 - aiogram.dispatcher - INFO - Run polling for bot @SELLLR_BOT id=8385348167 - 'H4CK SELLER BOT'
+2026-10-19 06:05:39,111 - __main__ - INFO - Initializing DB structure...
+2026-10-19 06:05:39,111 - __main__ - INFO - Forcing emoji and UI text updates...
+2026-10-19 06:05:39,550 - __main__ - INFO - UI texts and emojis updated with new placeholders and IDs.
+2026-10-19 06:05:39,550 - __main__ - INFO - Fixed any non-numeric price columns.
+2026-10-19 06:05:39,551 - __main__ - INFO - Global premium emoji engine active (9 emojis).
+2026-10-19 06:05:39,551 - __main__ - INFO - FamPay Auto-Verifier Daemon Running in Background.
+2026-10-19 06:05:39,551 - __main__ - INFO - 🚀 CORE SYSTEM IS FULLY OPERATIONAL...
+2026-10-19 06:05:39,551 - aiogram.dispatcher - INFO - Start polling
+2026-10-19 06:05:40,121 - aiogram.dispatcher - INFO - Run polling for bot @SELLLR_BOT id=8385348167 - 'H4CK SELLER BOT'
+2026-10-19 06:05:48,121 - __main__ - INFO - Initializing DB structure...
+2026-10-19 06:05:48,121 - __main__ - INFO - Forcing emoji and UI text updates...
+2026-10-19 06:05:48,538 - __main__ - INFO - UI texts and emojis updated with new placeholders and IDs.
+2026-10-19 06:05:48,539 - __main__ - INFO - Fixed any non-numeric price columns.
+2026-10-19 06:05:48,539 - __main__ - INFO - Global premium emoji engine active (9 emojis).
+2026-10-19 06:05:48,539 - __main__ - INFO - FamPay Auto-Verifier Daemon Running in Background.
+2026-10-19 06:05:48,539 - __main__ - INFO - 🚀 CORE SYSTEM IS FULLY OPERATIONAL...
+2026-10-19 06:05:48,540 - aiogram.dispatcher - INFO - Start polling
+2026-10-19 06:05:49,120 - aiogram.dispatcher - INFO - Run polling for bot @SELLLR_BOT id=8385348167 - 'H4CK SELLER BOT'
+2026-10-19 06:06:14,129 - __main__ - WARNING - Telegram dropped the premium emojis in the main menu. The bot owner needs Telegram Premium (or the bot needs a Fragment username). Run /testemoji.
+2026-10-19 06:06:14,129 - aiogram.event - INFO - Update id=69687968 is handled. Duration 1238 ms by bot id=8385348167
+2026-10-19 06:06:16,257 - aiogram.event - INFO - Update id=69687969 is handled. Duration 401 ms by bot id=8385348167
+2026-10-19 06:06:17,527 - aiogram.event - INFO - Update id=69687970 is handled. Duration 367 ms by bot id=8385348167
+2026-10-19 06:06:20,435 - __main__ - WARNING - Telegram dropped the premium emojis in the main menu. The bot owner needs Telegram Premium (or the bot needs a Fragment username). Run /testemoji.
+2026-10-19 06:06:20,435 - aiogram.event - INFO - Update id=69687971 is handled. Duration 424 ms by bot id=8385348167
